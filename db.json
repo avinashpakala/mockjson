@@ -40,15 +40,10 @@
 		},
 		{
 			"name": "Avinash Pakala",
-			"type": "followup",
+			"type": "follow",
 			"time": "1 Hour",
 			"concern": "Rashes"
 		},
-			{"name": "Suresh ",
-			"type": "followup",
-			"time": "1 Hour",
-			"concern": "Rashes"			      
-	         	
-		}
+			
 	]
 }
