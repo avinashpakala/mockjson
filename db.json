@@ -1,0 +1,8 @@
+{"investigationList" :[
+    {"id":"1", "name": "ECR"},
+     {"id":"2", "name": "ECG"},
+     {"id": "3 ", "name": "CBP"},
+      
+     {"id": "4", "name":"CUE"}
+  ]
+}
