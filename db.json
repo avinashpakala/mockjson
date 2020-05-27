@@ -1,37 +1,48 @@
-{"investigationList" :[
-    {"id":"1", "name": "ECR"},
-     {"id":"2", "name": "ECG"},
-     {"id": "3 ", "name": "CBP"},
-      
-     {"id": "4", "name":"CUE"},
-  ],
- "appointmentMapList" :[
-  {
-    "id" : "1234",
-    "name": "Prem Kumar Rathod",
-    "type": "new",
-    "concern": "Fever",
-    "time": "2 min",
-  },
-  {
-    "id" : "1234",
-    "name": "Mohammed Safee Uddin",
-    "type": "followup",
-    "time": "30 min",
-    "concern": "Abdominal Pain",
-  },
-  {
-    "id" : "1234",
-    "name": "Giriraj Thara",
-     "type": "new",
-     "time": "1 hour",
-    "concern": "Allergy",
-  },
-  {
-    "name": "Avinash Pakala",
-    "type": "followup",
-    "time": "1 Hour",
-    "concern": "Rashes",
-  },
-],
+{
+	"investigationList": [{
+			"id": "1",
+			"name": "ECR"
+		},
+		{
+			"id": "2",
+			"name": "ECG"
+		},
+		{
+			"id": "3 ",
+			"name": "CBP"
+		},
+
+		{
+			"id": "4",
+			"name": "CUE"
+		}
+	],
+	"appointmentMapList": [{
+			"id": "1234",
+			"name": "Prem Kumar Rathod",
+			"type": "new",
+			"concern": "Fever",
+			"time": "2 min"
+		},
+		{
+			"id": "1234",
+			"name": "Mohammed Safee Uddin",
+			"type": "followup",
+			"time": "30 min",
+			"concern": "Abdominal Pain"
+		},
+		{
+			"id": "1234",
+			"name": "Giriraj Thara",
+			"type": "new",
+			"time": "1 hour",
+			"concern": "Allergy"
+		},
+		{
+			"name": "Avinash Pakala",
+			"type": "followup",
+			"time": "1 Hour",
+			"concern": "Rashes"
+		}
+	]
 }
