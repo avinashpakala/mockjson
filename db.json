@@ -3,7 +3,7 @@
      {"id":"2", "name": "ECG"},
      {"id": "3 ", "name": "CBP"},
       
-     {"id": "4", "name":"CUE"}
+     {"id": "4", "name":"CUE"},
   ],
  "appointmentMapList" :[
   {
@@ -32,6 +32,6 @@
     "type": "followup",
     "time": "1 Hour",
     "concern": "Rashes",
-  }
+  },
 ],
 }
