@@ -43,6 +43,12 @@
 			"type": "followup",
 			"time": "1 Hour",
 			"concern": "Rashes"
+		},
+			      
+	         	"name": "Syed ",
+			"type": "followup",
+			"time": "1 Hour",
+			"concern": "Rashes"
 		}
 	]
 }
